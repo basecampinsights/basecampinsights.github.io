@@ -3,8 +3,8 @@ title: Basecamp Insights
 email: hello@basecampinsights.com
 description: "Basecamp Insights, a design thinking platform for the enterprise.  Innovation begins here."
 baseurl: ""
-# url: "http://basecampinsights.com" # for production
-url: "http://0.0.0.0:4000" # for staging
+url: "http://basecampinsights.com" # for production
+# url: "http://0.0.0.0:4000" # for staging
 
 # Build settings
 markdown: redcarpet
